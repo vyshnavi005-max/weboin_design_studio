@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-16">
           <div className="col-span-1 md:col-span-1">
             <Link href="/" className="text-2xl font-bold tracking-tight mb-6 block text-white">
-              Design<span className="text-indigo-500">Agency</span>
+              <span className="text-indigo-500">Design</span>Agency
             </Link>
             <p className="text-zinc-400 text-base leading-relaxed mb-6">
               Crafting high-end digital experiences that define the future of technology and design.

@@ -33,7 +33,7 @@ const Navbar = () => {
           <div className="flex justify-between items-center">
             <div className="flex-shrink-0">
               <span className="text-2xl font-bold tracking-tight text-zinc-950 dark:text-white">
-                <span className="text-indigo-600">Design</span>Agency
+                <span className="text-indigo-600 dark:text-indigo-500">Design</span>Agency
               </span>
             </div>
           </div>
@@ -55,7 +55,7 @@ const Navbar = () => {
           {/* Logo */}
           <div className="flex-shrink-0">
             <Link href="/" className="text-2xl font-bold tracking-tight">
-              <span className="text-indigo-600">Design</span>
+              <span className="text-indigo-600 dark:text-indigo-500">Design</span>
               <span className="text-zinc-950 dark:text-white transition-colors">Agency</span>
             </Link>
           </div>
